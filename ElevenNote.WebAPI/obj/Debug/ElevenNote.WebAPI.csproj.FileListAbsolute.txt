@@ -123,3 +123,5 @@ S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\ElevenNote\ElevenNote\ElevenNo
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.csproj.CopyComplete
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.dll
 S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\ElevenNote\ElevenNote\ElevenNote.WebAPI\obj\Debug\ElevenNote.WebAPI.pdb
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\ElevenNote\ElevenNote\ElevenNote.WebAPI\bin\Swashbuckle.Core.dll
+S:\Bootcamp Work Folder Boom\Blue Badge\ClassWork\ElevenNote\ElevenNote\ElevenNote.WebAPI\bin\WebActivatorEx.dll
